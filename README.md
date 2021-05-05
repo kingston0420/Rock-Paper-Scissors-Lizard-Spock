@@ -1,4 +1,4 @@
-# Tic-Tac-Toe
+# Rock-Paper-Scissors-Lizard-Spock
 There are two version of the game. <br/>
 First version is the traditional rock-paper-scissors. <br/>
 Second version is the rock-paper-scissors-lizard-spock. <br/>

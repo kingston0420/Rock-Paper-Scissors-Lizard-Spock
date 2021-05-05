@@ -29,5 +29,5 @@ Scissors decapitate Lizard.
 Lizard eats Paper.
 Paper disproves Spock.
 Spock vaporizes Rock.
-(and as it always has) Rock crushes Scissors.
+Rock crushes Scissors.
 ```
